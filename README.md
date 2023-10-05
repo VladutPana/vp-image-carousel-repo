@@ -2,6 +2,7 @@
  
        Image Carousel app
 This is a React project that features a responsive image carousel created using React, styled with Tailwind CSS, and enhanced with animations using Framer Motion. The carousel allows users to drag and interact with images, and they move smoothly in response. The images are mapped from an array defined a .js file, and the React useEffect, useRef and useState hooks are employed to manage state.
+![Carousel](https://github.com/VladutPana/vp-image-carousel-repo/assets/109078074/6a05c1b1-bf4c-4fe8-ba3c-9d4ad660db19)
 
 Features:
 
