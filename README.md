@@ -1,2 +1,0 @@
-# vp-image-carousel-repo
- 
