@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vp-image-carousel-repo/static/css/main.ad3dcd08.css",
+    "main.js": "/vp-image-carousel-repo/static/js/main.a8b9c83c.js",
+    "static/media/img3.jpg": "/vp-image-carousel-repo/static/media/img3.ea4aa5da436563c948be.jpg",
+    "static/media/img.jpg": "/vp-image-carousel-repo/static/media/img.c76a7959c70a399f77fb.jpg",
+    "static/media/img1.jpg": "/vp-image-carousel-repo/static/media/img1.90b8fd81191601c7582f.jpg",
+    "static/media/img7.jpg": "/vp-image-carousel-repo/static/media/img7.04a1a29c7881c8f6d94d.jpg",
+    "static/media/img6.jpg": "/vp-image-carousel-repo/static/media/img6.899f69353275f331f964.jpg",
+    "static/media/img5.jpg": "/vp-image-carousel-repo/static/media/img5.6551046b7d608b6aa770.jpg",
+    "static/media/img2.jpg": "/vp-image-carousel-repo/static/media/img2.978d5c58275c7cab3099.jpg",
+    "static/media/img8.jpg": "/vp-image-carousel-repo/static/media/img8.623c6b47987db59970af.jpg",
+    "static/media/img4.jpg": "/vp-image-carousel-repo/static/media/img4.1fba1697f943fec7706c.jpg",
+    "index.html": "/vp-image-carousel-repo/index.html",
+    "main.ad3dcd08.css.map": "/vp-image-carousel-repo/static/css/main.ad3dcd08.css.map",
+    "main.a8b9c83c.js.map": "/vp-image-carousel-repo/static/js/main.a8b9c83c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad3dcd08.css",
+    "static/js/main.a8b9c83c.js"
+  ]
+}
