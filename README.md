@@ -14,7 +14,7 @@ Features:
 
 Demo:
 
-You can view a live demonstration of the application here: http://www.vp-image-carousel-repo.com/
+You can view a live demonstration of the application here: [http://www.vp-image-carousel-repo.com/](https://vladutpana.github.io/vp-image-carousel-repo/)
 
 
 Technologies Used:
